@@ -14,4 +14,4 @@ spec:
               service:
                 name: playground-service
                 port:
-                  number: 80
+                  number: 80 #port of the app service where ingress directs traffic
