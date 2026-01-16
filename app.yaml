@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/madem232/IoT-mdemma-ncardozo-anloisea.git
+    repoURL: https://github.com/madem23/IoT-mdemma-ncardozo-anloisea.git
     targetRevision: HEAD
     path: .
   destination:
